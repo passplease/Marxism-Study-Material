@@ -45,10 +45,10 @@ jobs:
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+        working-directory: ./jekyll-theme-chirpy-master
         with:
           ruby-version: 3.3
           bundler-cache: true
-        working-directory: ./jekyll-theme-chirpy-master
         
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"

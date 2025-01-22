@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>http://localhost:4000/Marxism-Study-Material/</id>
   <title>Мэрксизм</title>
   <subtitle>一个Мэрксизм mlm主义者的博客，非圈内人士勿入！</subtitle>
-  <updated>2025-01-22T15:17:48+08:00</updated>
+  <updated>2025-01-22T17:36:49+08:00</updated>
   <author>
     <name>passplease</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://localhost:4000/Marxism-Study-Material/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/Marxism-Study-Material/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="zh-CN"
-    href="http://localhost:4000/"/>
+    href="http://localhost:4000/Marxism-Study-Material/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2025 passplease </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/Marxism-Study-Material/assets/img/favicons/favicon.ico</icon>
+  <logo>/Marxism-Study-Material/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>为什么现在大学小资思想盛行</title>
-    <link href="http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" rel="alternate" type="text/html" title="为什么现在大学小资思想盛行" />
+    <link href="http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" rel="alternate" type="text/html" title="为什么现在大学小资思想盛行" />
     <published>2025-01-22T12:56:30+08:00</published>
   
     <updated>2025-01-22T12:56:30+08:00</updated>
   
-    <id>http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/</id>
-    <content type="text/html" src="http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" />
+    <id>http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/</id>
+    <content type="text/html" src="http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" />
     <author>
       <name>me</name>
     </author>
@@ -50,13 +50,13 @@
   
   <entry>
     <title>乡村振兴？真的能成功吗？</title>
-    <link href="http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" rel="alternate" type="text/html" title="乡村振兴？真的能成功吗？" />
+    <link href="http://localhost:4000/Marxism-Study-Material/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" rel="alternate" type="text/html" title="乡村振兴？真的能成功吗？" />
     <published>2025-01-21T20:22:03+08:00</published>
   
     <updated>2025-01-21T20:22:03+08:00</updated>
   
-    <id>http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/</id>
-    <content type="text/html" src="http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" />
+    <id>http://localhost:4000/Marxism-Study-Material/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/</id>
+    <content type="text/html" src="http://localhost:4000/Marxism-Study-Material/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" />
     <author>
       <name>me</name>
     </author>

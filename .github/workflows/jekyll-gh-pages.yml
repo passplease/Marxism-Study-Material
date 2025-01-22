@@ -25,6 +25,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./jekyll-theme-chirpy-master
 
     steps:
       - name: Checkout
@@ -34,25 +37,28 @@ jobs:
           # submodules: true
           # If using the 'assets' git submodule from Chirpy Starter, uncomment above
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
-
+          
       - name: Change Directory
         run: cd ./jekyll-theme-chirpy-master
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-        working-directory: ./jekyll-theme-chirpy-master
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
-        working-directory: ./jekyll-theme-chirpy-master
         with:
           ruby-version: 3.3
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Install Dependencies
+        run: bundle exec bundle install
+
+      - name: Verify Jekyll installation
+        run: bundle exec jekyll -v
         
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
-        working-directory: ./jekyll-theme-chirpy-master
         env:
           JEKYLL_ENV: "production"
 

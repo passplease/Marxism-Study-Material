@@ -46,10 +46,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.3
-          bundler-cache: false
+          bundler-cache: true
 
       - name: Install Dependencies
-        run: bundle exec bundle install
+        run: |
+          gem install bundler
+          bundle install
 
       - name: Verify Jekyll installation
         run: bundle exec jekyll -v

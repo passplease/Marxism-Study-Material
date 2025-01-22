@@ -1,0 +1,83 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Мэрксизм</title>
+  <subtitle>一个Мэрксизм mlm主义者的博客，非圈内人士勿入！</subtitle>
+  <updated>2025-01-22T15:17:48+08:00</updated>
+  <author>
+    <name>passplease</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-CN"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2025 passplease </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>为什么现在大学小资思想盛行</title>
+    <link href="http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" rel="alternate" type="text/html" title="为什么现在大学小资思想盛行" />
+    <published>2025-01-22T12:56:30+08:00</published>
+  
+    <updated>2025-01-22T12:56:30+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" />
+    <author>
+      <name>me</name>
+    </author>
+
+  
+    
+    <category term="社会状况分析" />
+    
+    <category term="大学" />
+    
+  
+
+  <summary>本文探讨的重点在于这样一个已有事实——现在大学已经成为了社会上最大的、目的性最强、组织性最高的小资培养基地，正培养着大批用小资产阶级思想 “武装” 着头脑的知识分子（不论有没有找到工作）
+作为坚决的唯物主义者，我们着重于分析这样的社会状况的经济成因，毕竟任何社会现象都是经济的体现，都被经济极大地影响着。本文分析力图从大到小，从国家再到大学内部直至学生群体
+国家层面上
+讨论大学经济地位必须结合全局经济状况，我们都知道，近些年（尤其是新冠之后）经济下行，大学生工作不好找，这些是很容易了解到的。作为这些经济局部情况直接的结果，大学生被迫“内卷”。但是抛开这些局部经济原因，我们放大到全局的经济情况（尤其地是分析资本主义发展进程），我们可以发现，赛已然到了最高阶段，垄断被日益地巩固，生产资料被日益地集中，正是这样的垄断导致作为全局经济上是无产者的大学生被迫要彰显自己这个劳动力“商品”的“价值”...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>乡村振兴？真的能成功吗？</title>
+    <link href="http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" rel="alternate" type="text/html" title="乡村振兴？真的能成功吗？" />
+    <published>2025-01-21T20:22:03+08:00</published>
+  
+    <updated>2025-01-21T20:22:03+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" />
+    <author>
+      <name>me</name>
+    </author>
+
+  
+    
+    <category term="不忍道破" />
+    
+    <category term="纠正错误思想" />
+    
+  
+
+  <summary>回答本文标题提出的这个问题，我们必须要从城市与乡村的形成和出现讲起，只有明白了城市和乡村究竟是如何出现的，我们才能知道到底乡村振兴有没有可能实现，下面我们来使用马克思理论分析一下
+城市和乡村的形成
+马克思经济理论告诉我们，城市的形成是生产资料集中的体现，是生产资料的极大集中导致了城市出现。就算是理论不好的同志也可以理解：古代城市的地位是不如乡村的，因为生产的重心在乡村，自然城市是依附于乡村之上的。而资本分配方式的出现决定了生产资料会集中，这体现为大型企业和大型工业园区的出现，进而导致人口集中和城市出现。但是城市和乡村的对立是资本主义的“特产”，共产主义社会中会随着分配方式的改变而自然地消失，这是必然会出现的，也是我们追求的目标
+政策分析
+政策目的探讨
+乡村振兴这个政策是为了尽力减小赛的贫富差距而出现的，目的旨在“缓和”随着资本主义发展而出现的剧烈的阶级矛盾（一部分地表现为城乡矛盾），...</summary>
+
+  </entry>
+
+</feed>
+
+

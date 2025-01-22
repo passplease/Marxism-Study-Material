@@ -1,16 +1,16 @@
 const swconf = {
   
-    cacheName: 'chirpy-1737538610',resources: [
-      '/Marxism-Study-Material/assets/css/jekyll-theme-chirpy.css',
-      '/Marxism-Study-Material/',
+    cacheName: 'chirpy-1737548837',resources: [
+      '/assets/css/jekyll-theme-chirpy.css',
+      '/',
       
-        '/Marxism-Study-Material/categories/',
+        '/categories/',
       
-        '/Marxism-Study-Material/tags/',
+        '/tags/',
       
-        '/Marxism-Study-Material/archives/',
+        '/archives/',
       
-        '/Marxism-Study-Material/about/',
+        '/about/',
       
 
       

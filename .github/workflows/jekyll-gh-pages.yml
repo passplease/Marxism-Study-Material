@@ -53,8 +53,8 @@ jobs:
           gem install bundler
           bundle install
 
-      - name: Verify Jekyll installation
-        run: bundle exec jekyll -v
+      - name: npm build
+          run: npm install && npm run build
         
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"

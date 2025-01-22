@@ -31,6 +31,9 @@ jobs:
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' # 根据你的需要修改 Ruby 版本
+          bundler-cache: true
 
       - name: Install dependencies
         run: bundle install

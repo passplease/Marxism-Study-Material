@@ -47,6 +47,14 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
+      - name: Install Dependencies
+        run: bundle exec bundle install
+        working-directory: ./jekyll-theme-chirpy-master
+
+      - name: Verify Jekyll installation
+        run: bundle exec jekyll -v
+        working-directory: ./jekyll-theme-chirpy-master
+        
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         working-directory: ./jekyll-theme-chirpy-master

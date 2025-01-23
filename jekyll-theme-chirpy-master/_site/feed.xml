@@ -1,33 +1,68 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>http://localhost:4000/Marxism-Study-Material/</id>
   <title>Мэрксизм</title>
   <subtitle>一个Мэрксизм mlm主义者的博客，非圈内人士勿入！</subtitle>
-  <updated>2025-01-22T20:27:17+08:00</updated>
+  <updated>2025-01-23T16:23:47+08:00</updated>
   <author>
     <name>passplease</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://localhost:4000/Marxism-Study-Material/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/Marxism-Study-Material/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="zh-CN"
-    href="http://localhost:4000/"/>
+    href="http://localhost:4000/Marxism-Study-Material/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2025 passplease </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/Marxism-Study-Material/assets/img/favicons/favicon.ico</icon>
+  <logo>/Marxism-Study-Material/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
+    <title>为什么赛政府还有“社会主义”体现</title>
+    <link href="http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%9B%E6%94%BF%E5%BA%9C%E8%BF%98%E6%9C%89-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E4%BD%93%E7%8E%B0/" rel="alternate" type="text/html" title="为什么赛政府还有“社会主义”体现" />
+    <published>2025-01-23T12:03:30+08:00</published>
+  
+    <updated>2025-01-23T12:03:30+08:00</updated>
+  
+    <id>http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%9B%E6%94%BF%E5%BA%9C%E8%BF%98%E6%9C%89-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E4%BD%93%E7%8E%B0/</id>
+    <content type="text/html" src="http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%9B%E6%94%BF%E5%BA%9C%E8%BF%98%E6%9C%89-%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E4%BD%93%E7%8E%B0/" />
+    <author>
+      <name>me</name>
+    </author>
+
+  
+    
+    <category term="讨论" />
+    
+    <category term="赛" />
+    
+  
+
+  <summary>本文主要是针对我本人的一个疑惑，希望和各位同志一同探讨，问题正如标题所示，下面我解释一下，也说一下我的看法，希望与各位同志一同讨论
+
+问题解释
+问题阐释
+这个问题是明显的，我们明显还可以看到，即使生产方式是资本主义的生产方式，但是赛里斯政府还可以组织起救援等等的力量，这一点远远地超过了美帝国主义。比如下图的重庆山火还有疫情时期就是如此，这还包括
+
+这不禁让我们疑惑——究竟是什么导致了这样的情况，是什么让赛里斯政府还有这样的能力？
+这个问题是重要的，对于我们深刻理解赛里斯政府的行为是必要的，而且在做宣传工作时也要求我们搞清楚这个问题。
+已有的看法
+这个部分我主要针对的是中国无产阶级斗争报中关于疫情转载的报道（找不到原出处了）：【转载】为什么机会主义者要把资产阶级的白纸说成红旗，文中他们认为疫情封控完全是出于赛政府的利益，但是具体哪里的利益却不甚清晰。因而我不完全认同他们的看法，事实上疫...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>为什么现在大学小资思想盛行</title>
-    <link href="http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" rel="alternate" type="text/html" title="为什么现在大学小资思想盛行" />
+    <link href="http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" rel="alternate" type="text/html" title="为什么现在大学小资思想盛行" />
     <published>2025-01-22T12:56:30+08:00</published>
   
     <updated>2025-01-22T12:56:30+08:00</updated>
   
-    <id>http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/</id>
-    <content type="text/html" src="http://localhost:4000/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" />
+    <id>http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/</id>
+    <content type="text/html" src="http://localhost:4000/Marxism-Study-Material/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%B0%8F%E8%B5%84%E6%80%9D%E6%83%B3%E7%9B%9B%E8%A1%8C/" />
     <author>
       <name>me</name>
     </author>
@@ -50,13 +85,13 @@
   
   <entry>
     <title>乡村振兴？真的能成功吗？</title>
-    <link href="http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" rel="alternate" type="text/html" title="乡村振兴？真的能成功吗？" />
+    <link href="http://localhost:4000/Marxism-Study-Material/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" rel="alternate" type="text/html" title="乡村振兴？真的能成功吗？" />
     <published>2025-01-21T20:22:03+08:00</published>
   
     <updated>2025-01-21T20:22:03+08:00</updated>
   
-    <id>http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/</id>
-    <content type="text/html" src="http://localhost:4000/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" />
+    <id>http://localhost:4000/Marxism-Study-Material/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/</id>
+    <content type="text/html" src="http://localhost:4000/Marxism-Study-Material/posts/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4-%E7%9C%9F%E7%9A%84%E8%83%BD%E6%88%90%E5%8A%9F%E5%90%97/" />
     <author>
       <name>me</name>
     </author>

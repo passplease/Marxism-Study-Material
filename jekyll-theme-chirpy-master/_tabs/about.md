@@ -31,7 +31,7 @@ order: 4
 >我也是从新手过来的，帮助新同志成长也是老同志的责任<br>
 >首先进入这条路你必须要多读书，这是必须的要求，不然很难学习到更多的知识<br>
 >其次我认为实践是必要的（虽然我自己现在也没有进行太多实践），但是考虑到我自己都缺乏经验，就不细说了<br>
->对于阅读的书，本网站对应<span class="lang_english">[Github仓库](https://github.com/passplease/Marxism-Study-Material)</span>中有许多资源。其他我掌握的资源我会在之后写一篇博客详细介绍
+>对于阅读的书，本网站对应<span class="lang_english">[Github仓库](https://github.com/passplease/Marxism-Study-Material)</span>中有许多资源。其他我掌握的资源我以后会出文章详细介绍里有详细介绍
 * 我可以发表自己的观点吗<br>
 >我欢迎所有同志发表自己的观点，这有利于我们更加进步，对于革命有诸多益处<br>
 >但是任何人的任何发言（包括我自己）必须允许别人评论，这才有利于我们更好地进步
@@ -42,6 +42,4 @@ order: 4
 * <span class="lang_english">Bug</span>提交
 ><span class="lang_english">Bug</span>提交请到<span class="lang_english">[Github仓库](https://github.com/passplease/Marxism-Study-Material/issues)</span>里提交 <span class="lang_english">___issue___</span>
 * 已知<span class="lang_english">Bug</span>
->网站左下角黑白切换用不了<br>
->网站搜索功能用不了<br>
->右侧文章标题结构看不到<br>
+>（暂无）

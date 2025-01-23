@@ -2,4 +2,4 @@
 ## Purpose
 To save and share some Marxism Study Material
 ## Website
-https://marix.nonamewebsite.us.kg
+Look at sidebar > About

@@ -30,7 +30,8 @@ jobs:
         working-directory: ./jekyll-theme-chirpy-master
 
     steps:
-    - name: Delete old artifacts
+    
+      - name: Delete old artifacts
       uses: geekyeggo/delete-artifact@v2
       with:
         name: github-pages

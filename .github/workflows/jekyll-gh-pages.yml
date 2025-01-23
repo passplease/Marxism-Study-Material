@@ -30,13 +30,12 @@ jobs:
         working-directory: ./jekyll-theme-chirpy-master
 
     steps:
-    
       - name: Delete old artifacts
-      uses: geekyeggo/delete-artifact@v2
-      with:
-        name: github-pages
-        # Optionally specify a workflow run id to delete artifacts from
-        # run_id: ${{ github.run_id }}
+        uses: geekyeggo/delete-artifact@v2
+        with:
+          name: github-pages
+          # Optionally specify a workflow run id to delete artifacts from
+          # run_id: ${{ github.run_id }}
       - name: Checkout
         uses: actions/checkout@v4
         with:

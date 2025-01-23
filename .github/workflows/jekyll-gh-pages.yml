@@ -52,6 +52,7 @@ jobs:
         run: |
           gem install bundler
           bundle install
+          bundle update html-proofer
 
       - name: npm build
         run: npm install && npm run build

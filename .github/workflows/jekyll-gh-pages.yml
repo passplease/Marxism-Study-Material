@@ -82,3 +82,25 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Send mail
+        if: ${{ vars.SEND_EMAIL == 'true' }}
+        uses: dawidd6/action-send-mail@v4
+        with:
+    # Required mail server address if not connection_url:
+          server_address: smtp.gmail.com
+    # Server port, default 25:
+          server_port: 465
+    # Optional whether this connection use TLS (default is true if server_port is 465)
+          secure: true
+    # Optional (recommended) mail server username:
+          username: ${{secrets.EMAIL_USERNAME}}
+    # Optional (recommended) mail server password:
+          password: ${{secrets.EMAIL_PASSWORD}}
+    # Required mail subject:
+          subject: 新博客上传啦
+    # Required recipients' addresses:
+          to: ${{secrets.RECIPIENT_EMAIL}}
+    # Required sender full name (address can be skipped):
+          from: Luke Skywalker # <user@example.com>
+    # Optional plain body:
+          body: 网站博客更新新内容啦，邀你来看哦，网址：${{secrets.WEBSITE}}

@@ -37,6 +37,8 @@ order: 4
 >但是任何人的任何发言（包括我自己）必须允许别人评论，这才有利于我们更好地进步
 * 我可以投稿我的文章吗<br>
 >尽管原则上这是我的项目博客，但是我还是欢迎同志投稿稿件，不过相关投稿方式我还要确定，临时地可以在<span class="lang_english">[Github仓库](https://github.com/passplease/Marxism-Study-Material/issues)</span>里提交 <span class="lang_english">___issue___</span> 投稿
+* 为什么看不到评论区<br>
+>评论区由<span class="lang_english">[Giscus](https://giscus.app/)</span>提供支持，评论都存放在仓库对应<span class="lang_english">Discussion</span>中，如果看不到可能是因为<span class="lang_english">Github</span>链接不顺畅，等一会就看到了。如果还是看不到可能是<span class="lang_english">Github</span>访问失败，开加速器甚至梯子都可以解决问题。
 
 <span class="lang_english"> ***Bug*** </span><br>
 * <span class="lang_english">Bug</span>提交

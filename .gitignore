@@ -1,29 +1,9 @@
 others/
 .idea/
-# Bundler cache
-jekyll-theme-chirpy-master/.bundle
-jekyll-theme-chirpy-master/vendor
-jekyll-theme-chirpy-master/Gemfile.lock
-
-# Jekyll cache
-jekyll-theme-chirpy-master/.jekyll-cache
-jekyll-theme-chirpy-master/.jekyll-metadata
-jekyll-theme-chirpy-master/_site/
-
-# RubyGems
-*.gem
-
-# NPM dependencies
-jekyll-theme-chirpy-master/node_modules
-jekyll-theme-chirpy-master/package-lock.json
-
-# IDE configurations
-jekyll-theme-chirpy-master/.idea
-jekyll-theme-chirpy-master/.vscode/*
-!jekyll-theme-chirpy-master/.vscode/settings.json
-!jekyll-theme-chirpy-master/.vscode/extensions.json
-!jekyll-theme-chirpy-master/.vscode/tasks.json
-
-# Misc
-jekyll-theme-chirpy-master/_sass/vendors
-jekyll-theme-chirpy-master/assets/js/dist
+# Website
+!Chirpy/_posts/
+!Chirpy/_data/
+!Chirpy/_tabs/
+!Chirpy/commons/
+!Chirpy/_config.yml
+Chirpy/*

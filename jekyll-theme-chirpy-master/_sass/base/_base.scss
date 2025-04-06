@@ -135,7 +135,7 @@ main {
   overflow-wrap: break-word;
 
   @include bp.xl {
-    font-size: 1.03rem;
+    font-size: 1.4rem;
   }
 
   a {
@@ -164,6 +164,7 @@ main {
       padding-inline-start: 1.75rem;
 
       li {
+        font-size: 1.4rem;
         margin: 0.25rem 0;
         padding-left: 0.25rem;
       }

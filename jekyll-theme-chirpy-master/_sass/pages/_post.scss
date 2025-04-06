@@ -19,8 +19,10 @@ header {
   .post-desc {
     @extend %heading;
 
-    font-size: 1.125rem;
-    line-height: 1.6;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: rgb(71, 110, 33);
+    font-family: "STXingkai", "Xingkai SC", serif;
   }
 
   .post-meta {

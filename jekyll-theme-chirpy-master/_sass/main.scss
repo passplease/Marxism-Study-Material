@@ -21,14 +21,19 @@ body{
     font-family: "KaiTi", "SimKai", serif;
     font-size: larger;
 }
-h1, h2, h3, h4, h5, h6 {
-    color: aqua;
+h1 {
+    font-size: 3rem;
+    color: rgb(15, 125, 216);
     font-family: "STXingkai", "Xingkai SC", serif;
 }
-p{
-    font-size: 1.35rem;
+h2, h3, h4, h5, h6 {
+    color: aqua;
+    font-family: "KaiTi", "SimKai", serif;
 }
-.post-list, .post-title, .post-meta {
+p{
+    font-size: 1.45rem;
+}
+.post-list, .post-title, .post-meta{
     font-size: 2.4rem; /* 调整文章标题字体大小 */
 }
 .other_text{
@@ -43,11 +48,25 @@ p{
     font-family: 'JetBrains';
 }
 .h1{
-    font-size: 2.4rem;
     color: aqua;
+}
+.h2{
+    font-size: 2.8rem;
+}
+.h3{
+    font-size: 2.6rem;
+}
+.h4,.h5,.h6{
+    font-size: 2.4rem;
 }
 .respect{
     font-family: "KaiTi", "SimKai", serif;
     font-size: 2.6rem;
     font-weight: 900;
+}
+details{
+  summary{
+    color: darkgreen;
+  }
+  color: #2a9782;
 }

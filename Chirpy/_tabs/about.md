@@ -11,9 +11,10 @@ order: 4
 <span class="h1"> ***鸣谢*** </span><br>
 首先感谢 <span style = "color : red" class="other_text"> ___Karl Marx___ 、 ___Friedrich Engels___ 、 ___Владимир Ильич Ленин___ 、 ___Иосиф Сталин___ 、 ___毛泽东___ </span> 等革命先烈，没有他们就不可能有我们和这个网站，
 <h1 style="color : red" class="respect">首先让我们向他们表示最崇高的敬意！</h1><br>
-其次感谢 <span class="lang_english"> [Github Pages](https://pages.github.com/) </span> 和 <span class="lang_english"> [Github](https://github.com/) </span> 的网站托管服务<br>
-还有<span class="lang_english">[JetBrains](https://www.jetbrains.com/lp/mono/)</span>提供的免费英文字体<br>
-以及 <span class="lang_english"> [Jekyll](https://jekyllrb.com/) </span>和 <span class="lang_english"> [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) </span>对于搭建这个网站的帮助
+其次感谢[Github Pages](https://pages.github.com/)和[Github](https://github.com/)的网站托管服务<br>
+还有[JetBrains](https://www.jetbrains.com/lp/mono/)提供的免费英文字体<br>
+和[Jekyll](https://jekyllrb.com/)和[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)对于搭建这个网站的帮助<br>
+以及[Giscus](https://giscus.app/zh-CN)提供的评论区支持
 
 <span class="h1"> ***网站的目的*** </span><br>
 这个网站是为记录和表达我在<span class="lang_russian">Мэрксизм</span>主义的学习中的体会和收获以及自己对于当前世界资本主义发展情况的看法（主要的是有关赛的），也记录一些自己与当前不论社会的还是自己的错误思想抗争的历程。
